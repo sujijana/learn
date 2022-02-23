@@ -1,1 +1,2 @@
 this is a simple file for ansible deployment
+ansible server will execute
